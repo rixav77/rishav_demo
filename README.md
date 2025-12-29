@@ -1,4 +1,4 @@
-# rishav_demo
+# Rishav_demo
 This is first repo.
 <br>
 Author -> Rishav (IIT R)
